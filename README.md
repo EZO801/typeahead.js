@@ -1,5 +1,6 @@
 [![build status](https://secure.travis-ci.org/twitter/typeahead.js.svg?branch=master)](http://travis-ci.org/twitter/typeahead.js)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Ftypeahead.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Ftypeahead.js?ref=badge_shield)
 
 
 [typeahead.js][gh-page]
@@ -186,3 +187,7 @@ License
 Copyright 2013 Twitter, Inc.
 
 Licensed under the MIT License
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Ftypeahead.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Ftypeahead.js?ref=badge_large)
